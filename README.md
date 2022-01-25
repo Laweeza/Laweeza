@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a software developer from the Bay Area. My background is in Javascript but I enjoy branching out to learn different technologies. 
+I am a software developer from the Bay Area. 
 
 Currently working on projects with:
 
