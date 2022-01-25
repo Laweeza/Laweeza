@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 -->
 You can find me on [![LinkedIn][3.2]][3].
 
-I am a software developer from the Bay Area. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
-[2]: https://www.linkedin.com/in/louisa-shing/
+I am a software developer from the Bay Area. You can find me on [![LinkedIn][3.2]][3].
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
