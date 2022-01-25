@@ -23,7 +23,7 @@ Currently working on projects with:
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 
-Things for me to Check Out:
+I would like to learn:
 
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=red)
