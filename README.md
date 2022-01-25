@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 I am a software developer from the Bay Area. 
 
-<b>Currently working on projects with:</b>
+```Currently working on projects with:```
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 
-<b>Looking to learn:</b>
+```Looking to learn:```
 
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=red)
