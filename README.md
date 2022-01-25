@@ -16,20 +16,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a software developer from the Bay Area.
+I am a software developer from the Bay Area. My background is in Javascript but I enjoy branching out to learn different technologies. 
 
 Currently working on projects with:
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 
-Next things to learn:
+Things for me to Check Out:
 
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=red)
 
-## 🔧 Stats
+## 🔧 Technologies and Tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&logo=zsh&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-mongodb-informational?style=flat&logo=mongodb&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-mysql-informational?style=flat&logo=MYSQL&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Postgresql-informational?style=flat&logo=postgreSQL&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
 
 Feel free to [<img src="https://img.shields.io/badge/Email-louieshing%40gmail.com-orange">](mailto:louieshing@gmail.com) or connect with me on [![LinkedIn][3.2]][3].
 
