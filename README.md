@@ -27,7 +27,7 @@ I am a software developer from the Bay Area!
 
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=red)
-![](https://img.shields.io/badge/Tools-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=red)
+![](https://img.shields.io/badge/Tools-Django-informational?style=flat&logo=django&logoColor=white&color=red)
 
 ## 🔧 Technologies and Tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
