@@ -18,18 +18,6 @@ Here are some ideas to get you started:
 
 I am a software developer from the Bay Area!
 
-```Currently working on projects with:```
-
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-
-```Looking to learn:```
-
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=red)
-![](https://img.shields.io/badge/Tools-Django-informational?style=flat&logo=django&logoColor=white&color=red)
-
 ## 🔧 Technologies and Tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
