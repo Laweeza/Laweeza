@@ -38,6 +38,8 @@ Connect with me via [<img src="https://img.shields.io/badge/Email-louieshing%40g
 <!-- links to your social media accounts -->
 [3]: https://www.linkedin.com/in/louisa-shing/
 
+Check out my [personal technical blog!](https://laweeza.github.io/)
+
 <!-- Resources -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
