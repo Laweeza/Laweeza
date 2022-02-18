@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a software engineer from the Bay Area!
+I am a software engineer from the Bay Area and am currently looking for new opportunities!
+
 
 <i>Ongoing Stuff:</i>
 * [Blog](https://laweeza.github.io/)
