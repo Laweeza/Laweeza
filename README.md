@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 I am a software engineer from the Bay Area and am currently looking for new opportunities!
 
-I currently am improving my JavaScript and TypeScript skills by building small projects and of course, with leetcode.
-
 <i>Ongoing Stuff:</i>
 * [Blog](https://laweeza.github.io/)
 
