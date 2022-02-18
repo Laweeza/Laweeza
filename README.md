@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 I am a software engineer from the Bay Area!
 
-Ongoing Stuff: 
+<i>Ongoing Stuff:</i>
 * [Blog](https://laweeza.github.io/)
 
-Recent Works:
+<i>Recent Works:</i>
 * [Quick Bagel](https://github.com/rpp30-boc-heartbleed/whimsical) - A mobile errand tracker application for communities.
 * [Atelier](https://github.com/SDC-Sedeco/QA-Service) - Building a microservice and scaling to meet production level traffic needs.
 * [Atelier](https://github.com/rpp30-fec-r34ct/FEC) - Redesigning legacy website for an e-commerce client.
