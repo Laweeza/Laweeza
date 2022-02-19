@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 I am a software engineer from the Bay Area and am currently looking for new opportunities!
 
-<i>Ongoing Stuff:</i>
 * [Blog](https://laweeza.github.io/)
 
 <i>Recent Works:</i>
