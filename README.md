@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I am a software engineer from the Bay Area and am currently looking for new opportunities!
 
-* [Portfolio Site *Under Construction*](https://thelouisadocsmain.gatsbyjs.io/)
+* [Portfolio Site - *Under Construction*](https://thelouisadocsmain.gatsbyjs.io/)
 * [Blog](https://laweeza.github.io/)
 
 <i>Recent Works:</i>
