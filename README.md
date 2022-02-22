@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I am a software engineer from the Bay Area and am currently looking for new opportunities!
 
 * [Portfolio Site - *Under Construction*](https://thelouisadocsmain.gatsbyjs.io/)
-* [Blog](https://laweeza.github.io/)
+* [Blog - *Bored and want to be amused?*](https://laweeza.github.io/)
 
 <i>Recent Works:</i>
 * [Quick Bagel](https://github.com/rpp30-boc-heartbleed/whimsical) - A mobile errand tracker application for communities.
