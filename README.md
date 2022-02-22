@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a software engineer from the Bay Area and am currently looking for new opportunities!
+I'm a software engineer from the Bay Area and am currently looking for new opportunities!
 
 * [Portfolio Site - *Under Construction*](https://thelouisadocsmain.gatsbyjs.io/)
 * [Blog - *Bored and want to be amused?*](https://laweeza.github.io/)
