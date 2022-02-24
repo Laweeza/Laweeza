@@ -1,4 +1,4 @@
-## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello! 
 
 
 <!--
@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software engineer from the Bay Area and am currently looking for new opportunities!
+## I'm a software engineer with a background in pharmacy. 
 
-I currently work professionally as a pharmacist at UCSF, but enjoy learning about technologies and trying to build things outside of work.
-
-* [Portfolio & Blog Site](https://laweeza.github.io/)
+- 🌱 I’m currently looking for new opportunities!
+- 🔭 I’m currently working on leetcode and building things that I find interesting or make my life easier.
+- 💬 [Portfolio & Blog Site](https://laweeza.github.io/)
 
 
 <i>Recent Works:</i>
