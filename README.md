@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm a software engineer from the Bay Area and am currently looking for new opportunities!
 
-I currently work professionally as a pharmacist at UCSF, but enjoy learning about new technologies and trying to build things outside of work.
+I currently work professionally as a pharmacist at UCSF, but enjoy learning about technologies and trying to build things outside of work.
 
 * [Portfolio & Blog Site](https://laweeza.github.io/)
 
