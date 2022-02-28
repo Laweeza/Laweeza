@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 ## I'm a software engineer with a background in pharmacy. 
 
 - 🌱 I’m currently looking for new opportunities!
-- 🔭 I’m currently working on leetcode and building things that I find interesting or make my life easier.
 - 💬 [Portfolio & Blog Site](https://laweeza.github.io/)
 
 
