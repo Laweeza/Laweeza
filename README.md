@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 💬 [Portfolio & Blog Site](https://laweeza.github.io/)
 
 
-<i>Recent Works:</i>
+<i>Some Works:</i>
 * [Quick Bagel](https://github.com/rpp30-boc-heartbleed/whimsical) - A mobile errand tracker application for communities.
 * [Project Greenfield](https://github.com/SDC-Sedeco/QA-Service) - Building a microservice and scaling to meet production level traffic needs.
 * [Atelier](https://github.com/rpp30-fec-r34ct/FEC) - Redesigning legacy website for an e-commerce client.
