@@ -6,8 +6,6 @@ const Louisa = {
 }
 ```
 
-
-## 🔧 Technologies and Tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Connect with me via [email](mailto:louieshing@gmail.com) or [LinkedIn](https://www.linkedin.com/in/louisa-shing/)!
