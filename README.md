@@ -1,8 +1,10 @@
+```
 const Louisa = {
   pronouns: 'she/her',
   location: 'California',
-  interests: ['cats', 'art', 'weight lifting']
+  interests: ['cats', 'art', 'food']
 }
+```
 
 
 ## 🔧 Technologies and Tools
