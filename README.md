@@ -2,7 +2,7 @@
 const Louisa = {
   pronouns: 'she/her',
   location: 'California',
-  interests: ['art', 'adventuring', 'eating']
+  interests: ['drawing', 'adventuring', 'eating']
 }
 ```
 
