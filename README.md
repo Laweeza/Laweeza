@@ -1,10 +1,4 @@
-```
-const Louisa = {
-  pronouns: 'she/her',
-  location: 'California',
-  interests: ['drawing', 'adventuring', 'eating']
-}
-```
+
 <!-- links to social media icons -->
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
